@@ -7,11 +7,15 @@
 - 🎓 Análise e desenvolvimento de sistemas (in progress) 
 - 💙 Apaixonada por tecnologia e livros
 
+<a href = "mailto:adrianasilvalima08.07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
 
 <div style="display: flex>
   <a href="https://github.com/Adrianalima08">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adrianalima08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ 
 </div>
  
  
