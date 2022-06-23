@@ -5,7 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adrianalima08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianalima08&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  
+ 
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Adri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Adri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -14,8 +15,6 @@
   <img align="center" alt="Adri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Adri-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Adri-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  
-   <img align="right" alt="Adri-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/94061868/175399280-f2f702bb-bd5b-4731-8be8-2752c515aaa6.png">
 </div>
   
   #
