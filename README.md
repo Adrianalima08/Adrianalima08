@@ -14,8 +14,8 @@
   <img align="center" alt="Adri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Adri-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Adri-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-   <img align="right" alt="Adri-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/94061868/175393579-44344590-e721-4301-966f-426feeb7065b.png)
-">
+  
+   <img align="right" alt="Adri-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/94061868/175399280-f2f702bb-bd5b-4731-8be8-2752c515aaa6.png">
 </div>
   
   #
