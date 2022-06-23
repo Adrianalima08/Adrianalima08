@@ -12,11 +12,10 @@
 <div style="display: flex>
   <a href="https://github.com/Adrianalima08">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adrianalima08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img align="right" src="![Tech Life - Communication] https://blush.design/api/download?shareUri=8k0hI-rCG&bg=ffffff&w=800&h=800&fm=png
-" width="500" height="250" />  
+<img align="right" src="![67cb1a46-1d0c-45fe-ab3f-520e4802b1b8_rwc_0x7x800x626x800](https://user-images.githubusercontent.com/94061868/175430134-8df01bf9-d2fd-438e-9a4e-a7d1034541bb.gif)
+" 
+width="500" height="250" />  
 </div>
-
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Adri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
