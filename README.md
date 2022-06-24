@@ -1,4 +1,4 @@
-### Olá eu sou a Adriana Lima!
+### Olá, bem vindo(a) ao meu Github! 😄
 
 # 
 - 💻 Dev Front end 
