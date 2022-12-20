@@ -3,7 +3,7 @@
 # 
 - 💻 Dev Front end 
 - 💼 Estagiária 
-- 🎓 Análise e desenvolvimento de sistemas - 3° Semestre 📚
+- 🎓 Análise e desenvolvimento de sistemas - 4° Semestre 📚
 - 💙 Apaixonada por tecnologia e livros
 
 <a href = "mailto:adrianasilvalima08.07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
